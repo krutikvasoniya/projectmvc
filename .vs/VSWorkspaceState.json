@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVC_Project",
+    "\\MVC_Project\\App_Data",
+    "\\MVC_Project\\Controllers",
+    "\\MVC_Project\\Views",
+    "\\MVC_Project\\Views\\ExCategory",
+    "\\MVC_Project\\Views\\Shared"
+  ],
+  "SelectedNode": "\\MVC_Project\\Controllers\\ExCategoryController.cs",
+  "PreviewInSolutionExplorer": false
+}
